@@ -47,3 +47,4 @@ end
  gem 'rspec-rails'
  gem 'selenium-webdriver'
  gem 'capybara'
+ gem 'bootstrap-sass'
