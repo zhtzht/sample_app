@@ -48,3 +48,4 @@ end
  gem 'selenium-webdriver'
  gem 'capybara'
  gem 'bootstrap-sass'
+gem "bcrypt-ruby", "~> 3.0.1"
